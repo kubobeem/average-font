@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>平均フォント — 100書体のピクセル平均</title>
+<style>
+  body { font-family: sans-serif; margin: 0 auto; max-width: 1100px; padding: 24px;
+         background: #fafafa; color: #111; }
+  h1 { font-size: 26px; margin: 0 0 4px; }
+  p.lead { color: #444; margin: 4px 0 20px; }
+  h2 { font-size: 18px; border-bottom: 2px solid #111; padding-bottom: 4px; margin: 28px 0 12px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 10px; }
+  figure { margin: 0; background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 6px; text-align: center; }
+  figure img { width: 100%; height: auto; display: block; }
+  figcaption { font-size: 15px; margin-top: 4px; }
+  figcaption span { display: block; font-size: 10px; color: #777; }
+  footer { color: #666; font-size: 12px; margin-top: 32px; border-top: 1px solid #ccc; padding-top: 12px; }
+  a { color: #0645ad; }
+</style>
+</head>
+<body>
+<h1>平均フォント</h1>
+<p class="lead">日本語オープンライセンス書体 <strong>100書体</strong> のグリフを 256×256px で描画し、
+ピクセル単位で平均したもの。各文字は平均に寄与した書体数（100書体中）付き。
+滲んで見えるのは平均化の結果で、バグじゃない。</p>
+<p class="lead">手法の詳細と書体一覧は <a href="../README.md">README.md</a> / <a href="../SOURCES.md">SOURCES.md</a> を参照。
+コンタクトシート: <a href="contact_sheet.png">全174字一覧</a></p>
+    <section><h2>ひらがな 46字</h2><div class="grid">
+      <figure><img src="glyphs/000_U+3042_hiragana.png" alt="あ" loading="lazy"><figcaption>あ <span>U+3042 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/001_U+3044_hiragana.png" alt="い" loading="lazy"><figcaption>い <span>U+3044 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/002_U+3046_hiragana.png" alt="う" loading="lazy"><figcaption>う <span>U+3046 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/003_U+3048_hiragana.png" alt="え" loading="lazy"><figcaption>え <span>U+3048 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/004_U+304A_hiragana.png" alt="お" loading="lazy"><figcaption>お <span>U+304A · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/005_U+304B_hiragana.png" alt="か" loading="lazy"><figcaption>か <span>U+304B · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/006_U+304D_hiragana.png" alt="き" loading="lazy"><figcaption>き <span>U+304D · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/007_U+304F_hiragana.png" alt="く" loading="lazy"><figcaption>く <span>U+304F · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/008_U+3051_hiragana.png" alt="け" loading="lazy"><figcaption>け <span>U+3051 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/009_U+3053_hiragana.png" alt="こ" loading="lazy"><figcaption>こ <span>U+3053 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/010_U+3055_hiragana.png" alt="さ" loading="lazy"><figcaption>さ <span>U+3055 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/011_U+3057_hiragana.png" alt="し" loading="lazy"><figcaption>し <span>U+3057 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/012_U+3059_hiragana.png" alt="す" loading="lazy"><figcaption>す <span>U+3059 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/013_U+305B_hiragana.png" alt="せ" loading="lazy"><figcaption>せ <span>U+305B · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/014_U+305D_hiragana.png" alt="そ" loading="lazy"><figcaption>そ <span>U+305D · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/015_U+305F_hiragana.png" alt="た" loading="lazy"><figcaption>た <span>U+305F · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/016_U+3061_hiragana.png" alt="ち" loading="lazy"><figcaption>ち <span>U+3061 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/017_U+3064_hiragana.png" alt="つ" loading="lazy"><figcaption>つ <span>U+3064 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/018_U+3066_hiragana.png" alt="て" loading="lazy"><figcaption>て <span>U+3066 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/019_U+3068_hiragana.png" alt="と" loading="lazy"><figcaption>と <span>U+3068 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/020_U+306A_hiragana.png" alt="な" loading="lazy"><figcaption>な <span>U+306A · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/021_U+306B_hiragana.png" alt="に" loading="lazy"><figcaption>に <span>U+306B · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/022_U+306C_hiragana.png" alt="ぬ" loading="lazy"><figcaption>ぬ <span>U+306C · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/023_U+306D_hiragana.png" alt="ね" loading="lazy"><figcaption>ね <span>U+306D · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/024_U+306E_hiragana.png" alt="の" loading="lazy"><figcaption>の <span>U+306E · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/025_U+306F_hiragana.png" alt="は" loading="lazy"><figcaption>は <span>U+306F · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/026_U+3072_hiragana.png" alt="ひ" loading="lazy"><figcaption>ひ <span>U+3072 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/027_U+3075_hiragana.png" alt="ふ" loading="lazy"><figcaption>ふ <span>U+3075 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/028_U+3078_hiragana.png" alt="へ" loading="lazy"><figcaption>へ <span>U+3078 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/029_U+307B_hiragana.png" alt="ほ" loading="lazy"><figcaption>ほ <span>U+307B · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/030_U+307E_hiragana.png" alt="ま" loading="lazy"><figcaption>ま <span>U+307E · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/031_U+307F_hiragana.png" alt="み" loading="lazy"><figcaption>み <span>U+307F · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/032_U+3080_hiragana.png" alt="む" loading="lazy"><figcaption>む <span>U+3080 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/033_U+3081_hiragana.png" alt="め" loading="lazy"><figcaption>め <span>U+3081 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/034_U+3082_hiragana.png" alt="も" loading="lazy"><figcaption>も <span>U+3082 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/035_U+3084_hiragana.png" alt="や" loading="lazy"><figcaption>や <span>U+3084 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/036_U+3086_hiragana.png" alt="ゆ" loading="lazy"><figcaption>ゆ <span>U+3086 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/037_U+3088_hiragana.png" alt="よ" loading="lazy"><figcaption>よ <span>U+3088 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/038_U+3089_hiragana.png" alt="ら" loading="lazy"><figcaption>ら <span>U+3089 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/039_U+308A_hiragana.png" alt="り" loading="lazy"><figcaption>り <span>U+308A · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/040_U+308B_hiragana.png" alt="る" loading="lazy"><figcaption>る <span>U+308B · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/041_U+308C_hiragana.png" alt="れ" loading="lazy"><figcaption>れ <span>U+308C · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/042_U+308D_hiragana.png" alt="ろ" loading="lazy"><figcaption>ろ <span>U+308D · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/043_U+308F_hiragana.png" alt="わ" loading="lazy"><figcaption>わ <span>U+308F · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/044_U+3092_hiragana.png" alt="を" loading="lazy"><figcaption>を <span>U+3092 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/045_U+3093_hiragana.png" alt="ん" loading="lazy"><figcaption>ん <span>U+3093 · 228書体</span></figcaption></figure>
+    </div></section>    <section><h2>カタカナ 46字</h2><div class="grid">
+      <figure><img src="glyphs/046_U+30A2_katakana.png" alt="ア" loading="lazy"><figcaption>ア <span>U+30A2 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/047_U+30A4_katakana.png" alt="イ" loading="lazy"><figcaption>イ <span>U+30A4 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/048_U+30A6_katakana.png" alt="ウ" loading="lazy"><figcaption>ウ <span>U+30A6 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/049_U+30A8_katakana.png" alt="エ" loading="lazy"><figcaption>エ <span>U+30A8 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/050_U+30AA_katakana.png" alt="オ" loading="lazy"><figcaption>オ <span>U+30AA · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/051_U+30AB_katakana.png" alt="カ" loading="lazy"><figcaption>カ <span>U+30AB · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/052_U+30AD_katakana.png" alt="キ" loading="lazy"><figcaption>キ <span>U+30AD · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/053_U+30AF_katakana.png" alt="ク" loading="lazy"><figcaption>ク <span>U+30AF · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/054_U+30B1_katakana.png" alt="ケ" loading="lazy"><figcaption>ケ <span>U+30B1 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/055_U+30B3_katakana.png" alt="コ" loading="lazy"><figcaption>コ <span>U+30B3 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/056_U+30B5_katakana.png" alt="サ" loading="lazy"><figcaption>サ <span>U+30B5 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/057_U+30B7_katakana.png" alt="シ" loading="lazy"><figcaption>シ <span>U+30B7 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/058_U+30B9_katakana.png" alt="ス" loading="lazy"><figcaption>ス <span>U+30B9 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/059_U+30BB_katakana.png" alt="セ" loading="lazy"><figcaption>セ <span>U+30BB · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/060_U+30BD_katakana.png" alt="ソ" loading="lazy"><figcaption>ソ <span>U+30BD · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/061_U+30BF_katakana.png" alt="タ" loading="lazy"><figcaption>タ <span>U+30BF · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/062_U+30C1_katakana.png" alt="チ" loading="lazy"><figcaption>チ <span>U+30C1 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/063_U+30C4_katakana.png" alt="ツ" loading="lazy"><figcaption>ツ <span>U+30C4 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/064_U+30C6_katakana.png" alt="テ" loading="lazy"><figcaption>テ <span>U+30C6 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/065_U+30C8_katakana.png" alt="ト" loading="lazy"><figcaption>ト <span>U+30C8 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/066_U+30CA_katakana.png" alt="ナ" loading="lazy"><figcaption>ナ <span>U+30CA · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/067_U+30CB_katakana.png" alt="ニ" loading="lazy"><figcaption>ニ <span>U+30CB · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/068_U+30CC_katakana.png" alt="ヌ" loading="lazy"><figcaption>ヌ <span>U+30CC · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/069_U+30CD_katakana.png" alt="ネ" loading="lazy"><figcaption>ネ <span>U+30CD · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/070_U+30CE_katakana.png" alt="ノ" loading="lazy"><figcaption>ノ <span>U+30CE · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/071_U+30CF_katakana.png" alt="ハ" loading="lazy"><figcaption>ハ <span>U+30CF · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/072_U+30D2_katakana.png" alt="ヒ" loading="lazy"><figcaption>ヒ <span>U+30D2 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/073_U+30D5_katakana.png" alt="フ" loading="lazy"><figcaption>フ <span>U+30D5 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/074_U+30D8_katakana.png" alt="ヘ" loading="lazy"><figcaption>ヘ <span>U+30D8 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/075_U+30DB_katakana.png" alt="ホ" loading="lazy"><figcaption>ホ <span>U+30DB · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/076_U+30DE_katakana.png" alt="マ" loading="lazy"><figcaption>マ <span>U+30DE · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/077_U+30DF_katakana.png" alt="ミ" loading="lazy"><figcaption>ミ <span>U+30DF · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/078_U+30E0_katakana.png" alt="ム" loading="lazy"><figcaption>ム <span>U+30E0 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/079_U+30E1_katakana.png" alt="メ" loading="lazy"><figcaption>メ <span>U+30E1 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/080_U+30E2_katakana.png" alt="モ" loading="lazy"><figcaption>モ <span>U+30E2 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/081_U+30E4_katakana.png" alt="ヤ" loading="lazy"><figcaption>ヤ <span>U+30E4 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/082_U+30E6_katakana.png" alt="ユ" loading="lazy"><figcaption>ユ <span>U+30E6 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/083_U+30E8_katakana.png" alt="ヨ" loading="lazy"><figcaption>ヨ <span>U+30E8 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/084_U+30E9_katakana.png" alt="ラ" loading="lazy"><figcaption>ラ <span>U+30E9 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/085_U+30EA_katakana.png" alt="リ" loading="lazy"><figcaption>リ <span>U+30EA · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/086_U+30EB_katakana.png" alt="ル" loading="lazy"><figcaption>ル <span>U+30EB · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/087_U+30EC_katakana.png" alt="レ" loading="lazy"><figcaption>レ <span>U+30EC · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/088_U+30ED_katakana.png" alt="ロ" loading="lazy"><figcaption>ロ <span>U+30ED · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/089_U+30EF_katakana.png" alt="ワ" loading="lazy"><figcaption>ワ <span>U+30EF · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/090_U+30F2_katakana.png" alt="ヲ" loading="lazy"><figcaption>ヲ <span>U+30F2 · 228書体</span></figcaption></figure>
+      <figure><img src="glyphs/091_U+30F3_katakana.png" alt="ン" loading="lazy"><figcaption>ン <span>U+30F3 · 228書体</span></figcaption></figure>
+    </div></section>    <section><h2>数字 0–9</h2><div class="grid">
+      <figure><img src="glyphs/092_U+0030_digits.png" alt="0" loading="lazy"><figcaption>0 <span>U+0030 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/093_U+0031_digits.png" alt="1" loading="lazy"><figcaption>1 <span>U+0031 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/094_U+0032_digits.png" alt="2" loading="lazy"><figcaption>2 <span>U+0032 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/095_U+0033_digits.png" alt="3" loading="lazy"><figcaption>3 <span>U+0033 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/096_U+0034_digits.png" alt="4" loading="lazy"><figcaption>4 <span>U+0034 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/097_U+0035_digits.png" alt="5" loading="lazy"><figcaption>5 <span>U+0035 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/098_U+0036_digits.png" alt="6" loading="lazy"><figcaption>6 <span>U+0036 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/099_U+0037_digits.png" alt="7" loading="lazy"><figcaption>7 <span>U+0037 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/100_U+0038_digits.png" alt="8" loading="lazy"><figcaption>8 <span>U+0038 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/101_U+0039_digits.png" alt="9" loading="lazy"><figcaption>9 <span>U+0039 · 229書体</span></figcaption></figure>
+    </div></section>    <section><h2>英字 A–Z</h2><div class="grid">
+      <figure><img src="glyphs/102_U+0041_latin_upper.png" alt="A" loading="lazy"><figcaption>A <span>U+0041 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/103_U+0042_latin_upper.png" alt="B" loading="lazy"><figcaption>B <span>U+0042 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/104_U+0043_latin_upper.png" alt="C" loading="lazy"><figcaption>C <span>U+0043 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/105_U+0044_latin_upper.png" alt="D" loading="lazy"><figcaption>D <span>U+0044 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/106_U+0045_latin_upper.png" alt="E" loading="lazy"><figcaption>E <span>U+0045 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/107_U+0046_latin_upper.png" alt="F" loading="lazy"><figcaption>F <span>U+0046 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/108_U+0047_latin_upper.png" alt="G" loading="lazy"><figcaption>G <span>U+0047 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/109_U+0048_latin_upper.png" alt="H" loading="lazy"><figcaption>H <span>U+0048 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/110_U+0049_latin_upper.png" alt="I" loading="lazy"><figcaption>I <span>U+0049 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/111_U+004A_latin_upper.png" alt="J" loading="lazy"><figcaption>J <span>U+004A · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/112_U+004B_latin_upper.png" alt="K" loading="lazy"><figcaption>K <span>U+004B · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/113_U+004C_latin_upper.png" alt="L" loading="lazy"><figcaption>L <span>U+004C · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/114_U+004D_latin_upper.png" alt="M" loading="lazy"><figcaption>M <span>U+004D · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/115_U+004E_latin_upper.png" alt="N" loading="lazy"><figcaption>N <span>U+004E · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/116_U+004F_latin_upper.png" alt="O" loading="lazy"><figcaption>O <span>U+004F · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/117_U+0050_latin_upper.png" alt="P" loading="lazy"><figcaption>P <span>U+0050 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/118_U+0051_latin_upper.png" alt="Q" loading="lazy"><figcaption>Q <span>U+0051 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/119_U+0052_latin_upper.png" alt="R" loading="lazy"><figcaption>R <span>U+0052 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/120_U+0053_latin_upper.png" alt="S" loading="lazy"><figcaption>S <span>U+0053 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/121_U+0054_latin_upper.png" alt="T" loading="lazy"><figcaption>T <span>U+0054 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/122_U+0055_latin_upper.png" alt="U" loading="lazy"><figcaption>U <span>U+0055 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/123_U+0056_latin_upper.png" alt="V" loading="lazy"><figcaption>V <span>U+0056 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/124_U+0057_latin_upper.png" alt="W" loading="lazy"><figcaption>W <span>U+0057 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/125_U+0058_latin_upper.png" alt="X" loading="lazy"><figcaption>X <span>U+0058 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/126_U+0059_latin_upper.png" alt="Y" loading="lazy"><figcaption>Y <span>U+0059 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/127_U+005A_latin_upper.png" alt="Z" loading="lazy"><figcaption>Z <span>U+005A · 229書体</span></figcaption></figure>
+    </div></section>    <section><h2>英字 a–z</h2><div class="grid">
+      <figure><img src="glyphs/128_U+0061_latin_lower.png" alt="a" loading="lazy"><figcaption>a <span>U+0061 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/129_U+0062_latin_lower.png" alt="b" loading="lazy"><figcaption>b <span>U+0062 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/130_U+0063_latin_lower.png" alt="c" loading="lazy"><figcaption>c <span>U+0063 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/131_U+0064_latin_lower.png" alt="d" loading="lazy"><figcaption>d <span>U+0064 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/132_U+0065_latin_lower.png" alt="e" loading="lazy"><figcaption>e <span>U+0065 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/133_U+0066_latin_lower.png" alt="f" loading="lazy"><figcaption>f <span>U+0066 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/134_U+0067_latin_lower.png" alt="g" loading="lazy"><figcaption>g <span>U+0067 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/135_U+0068_latin_lower.png" alt="h" loading="lazy"><figcaption>h <span>U+0068 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/136_U+0069_latin_lower.png" alt="i" loading="lazy"><figcaption>i <span>U+0069 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/137_U+006A_latin_lower.png" alt="j" loading="lazy"><figcaption>j <span>U+006A · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/138_U+006B_latin_lower.png" alt="k" loading="lazy"><figcaption>k <span>U+006B · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/139_U+006C_latin_lower.png" alt="l" loading="lazy"><figcaption>l <span>U+006C · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/140_U+006D_latin_lower.png" alt="m" loading="lazy"><figcaption>m <span>U+006D · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/141_U+006E_latin_lower.png" alt="n" loading="lazy"><figcaption>n <span>U+006E · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/142_U+006F_latin_lower.png" alt="o" loading="lazy"><figcaption>o <span>U+006F · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/143_U+0070_latin_lower.png" alt="p" loading="lazy"><figcaption>p <span>U+0070 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/144_U+0071_latin_lower.png" alt="q" loading="lazy"><figcaption>q <span>U+0071 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/145_U+0072_latin_lower.png" alt="r" loading="lazy"><figcaption>r <span>U+0072 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/146_U+0073_latin_lower.png" alt="s" loading="lazy"><figcaption>s <span>U+0073 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/147_U+0074_latin_lower.png" alt="t" loading="lazy"><figcaption>t <span>U+0074 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/148_U+0075_latin_lower.png" alt="u" loading="lazy"><figcaption>u <span>U+0075 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/149_U+0076_latin_lower.png" alt="v" loading="lazy"><figcaption>v <span>U+0076 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/150_U+0077_latin_lower.png" alt="w" loading="lazy"><figcaption>w <span>U+0077 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/151_U+0078_latin_lower.png" alt="x" loading="lazy"><figcaption>x <span>U+0078 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/152_U+0079_latin_lower.png" alt="y" loading="lazy"><figcaption>y <span>U+0079 · 229書体</span></figcaption></figure>
+      <figure><img src="glyphs/153_U+007A_latin_lower.png" alt="z" loading="lazy"><figcaption>z <span>U+007A · 229書体</span></figcaption></figure>
+    </div></section>    <section><h2>漢字 20字</h2><div class="grid">
+      <figure><img src="glyphs/154_U+65E5_kanji.png" alt="日" loading="lazy"><figcaption>日 <span>U+65E5 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/155_U+672C_kanji.png" alt="本" loading="lazy"><figcaption>本 <span>U+672C · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/156_U+5E74_kanji.png" alt="年" loading="lazy"><figcaption>年 <span>U+5E74 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/157_U+6642_kanji.png" alt="時" loading="lazy"><figcaption>時 <span>U+6642 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/158_U+5206_kanji.png" alt="分" loading="lazy"><figcaption>分 <span>U+5206 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/159_U+524D_kanji.png" alt="前" loading="lazy"><figcaption>前 <span>U+524D · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/160_U+5F8C_kanji.png" alt="後" loading="lazy"><figcaption>後 <span>U+5F8C · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/161_U+5927_kanji.png" alt="大" loading="lazy"><figcaption>大 <span>U+5927 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/162_U+5C0F_kanji.png" alt="小" loading="lazy"><figcaption>小 <span>U+5C0F · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/163_U+4E0A_kanji.png" alt="上" loading="lazy"><figcaption>上 <span>U+4E0A · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/164_U+4E0B_kanji.png" alt="下" loading="lazy"><figcaption>下 <span>U+4E0B · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/165_U+4E2D_kanji.png" alt="中" loading="lazy"><figcaption>中 <span>U+4E2D · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/166_U+5DE6_kanji.png" alt="左" loading="lazy"><figcaption>左 <span>U+5DE6 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/167_U+53F3_kanji.png" alt="右" loading="lazy"><figcaption>右 <span>U+53F3 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/168_U+5C71_kanji.png" alt="山" loading="lazy"><figcaption>山 <span>U+5C71 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/169_U+5DDD_kanji.png" alt="川" loading="lazy"><figcaption>川 <span>U+5DDD · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/170_U+7530_kanji.png" alt="田" loading="lazy"><figcaption>田 <span>U+7530 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/171_U+4EBA_kanji.png" alt="人" loading="lazy"><figcaption>人 <span>U+4EBA · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/172_U+6708_kanji.png" alt="月" loading="lazy"><figcaption>月 <span>U+6708 · 227書体</span></figcaption></figure>
+      <figure><img src="glyphs/173_U+706B_kanji.png" alt="火" loading="lazy"><figcaption>火 <span>U+706B · 227書体</span></figcaption></figure>
+    </div></section>
+<footer>
+  平均フォント — 100 open-license Japanese fonts, pixel-averaged.
+  全書体 SIL Open Font License 1.1 (OFL)。元フォントは <code>fonts/</code> に収録。
+  平均グリフ画像は各フォントの著作物の派生物ではなく、画素統計の可視化として扱うこと。
+  TTF版は <a href="../README.md">README</a> の「TTFについて」を参照。
+</footer>
+</body>
+</html>

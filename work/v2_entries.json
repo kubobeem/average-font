@@ -1,0 +1,647 @@
+{
+  "entries": [
+    {
+      "file": "DelaGothicOne-Regular.ttf",
+      "weights": null,
+      "name": "Dela Gothic One",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "RampartOne-Regular.ttf",
+      "weights": null,
+      "name": "Rampart One",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "ReggaeOne-Regular.ttf",
+      "weights": null,
+      "name": "Reggae One",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "RocknRollOne-Regular.ttf",
+      "weights": null,
+      "name": "RocknRoll One",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "PottaOne-Regular.ttf",
+      "weights": null,
+      "name": "Potta One",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "MochiyPopOne-Regular.ttf",
+      "weights": null,
+      "name": "Mochiy Pop One",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "MochiyPopPOne-Regular.ttf",
+      "weights": null,
+      "name": "Mochiy Pop P One",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "HachiMaruPop-Regular.ttf",
+      "weights": null,
+      "name": "Hachi Maru Pop",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "YujiSyuku-Regular.ttf",
+      "weights": null,
+      "name": "Yuji Syuku",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "YujiMai-Regular.ttf",
+      "weights": null,
+      "name": "Yuji Mai",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "YujiBoku-Regular.ttf",
+      "weights": null,
+      "name": "Yuji Boku",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "NewTegomin-Regular.ttf",
+      "weights": null,
+      "name": "New Tegomin",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "ShipporiAntique-Regular.ttf",
+      "weights": null,
+      "name": "Shippori Antique",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "ShipporiAntiqueB1-Regular.ttf",
+      "weights": null,
+      "name": "Shippori Antique B1",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Yomogi-Regular.ttf",
+      "weights": null,
+      "name": "Yomogi",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Murecho[wght].ttf",
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "name": "Murecho",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "MPLUS1[wght].ttf",
+      "weights": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "name": "M PLUS 1",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "BIZUDPGothic-Regular.ttf",
+      "weights": null,
+      "name": "BIZ UDPGothic Regular",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "BIZUDPGothic-Bold.ttf",
+      "weights": null,
+      "name": "BIZ UDPGothic Bold",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "ShipporiMinchoB1-SemiBold.ttf",
+      "weights": null,
+      "name": "Shippori Mincho B1 SemiBold",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "ShipporiMinchoB1-ExtraBold.ttf",
+      "weights": null,
+      "name": "Shippori Mincho B1 ExtraBold",
+      "source": "google/fonts (OFL 1.1)",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "IPAexGothic.ttf",
+      "weights": null,
+      "name": "IPAexゴシック",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "IPAexMincho.ttf",
+      "weights": null,
+      "name": "IPAex明朝",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "TakaoGothic.ttf",
+      "weights": null,
+      "name": "Takaoゴシック",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "TakaoPGothic.ttf",
+      "weights": null,
+      "name": "Takao Pゴシック",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "TakaoMincho.ttf",
+      "weights": null,
+      "name": "Takao明朝",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "TakaoPMincho.ttf",
+      "weights": null,
+      "name": "Takao P明朝",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "VLGothic-Regular.ttf",
+      "weights": null,
+      "name": "VLゴシック",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "VLPGothic-Regular.ttf",
+      "weights": null,
+      "name": "VL Pゴシック",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-1P-Regular.ttf",
+      "weights": null,
+      "name": "MigMix 1P Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-1P-Bold.ttf",
+      "weights": null,
+      "name": "MigMix 1P Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-2P-Regular.ttf",
+      "weights": null,
+      "name": "MigMix 2P Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-2P-Bold.ttf",
+      "weights": null,
+      "name": "MigMix 2P Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-1M-Regular.ttf",
+      "weights": null,
+      "name": "MigMix 1M Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-1M-Bold.ttf",
+      "weights": null,
+      "name": "MigMix 1M Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-2M-Regular.ttf",
+      "weights": null,
+      "name": "MigMix 2M Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "MigMix-2M-Bold.ttf",
+      "weights": null,
+      "name": "MigMix 2M Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-1M-Regular.ttf",
+      "weights": null,
+      "name": "Migu 1M Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-1M-Bold.ttf",
+      "weights": null,
+      "name": "Migu 1M Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-1C-Regular.ttf",
+      "weights": null,
+      "name": "Migu 1C Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-1C-Bold.ttf",
+      "weights": null,
+      "name": "Migu 1C Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-1P-Regular.ttf",
+      "weights": null,
+      "name": "Migu 1P Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-1P-Bold.ttf",
+      "weights": null,
+      "name": "Migu 1P Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-2M-Regular.ttf",
+      "weights": null,
+      "name": "Migu 2M Regular",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "Migu-2M-Bold.ttf",
+      "weights": null,
+      "name": "Migu 2M Bold",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "UmePlus-Gothic.ttf",
+      "weights": null,
+      "name": "UmePlusゴシック",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "UmePlus-P-Gothic.ttf",
+      "weights": null,
+      "name": "UmePlus Pゴシック",
+      "source": "Debian fonts-* package",
+      "license": "open (IPA/M+/Ume)"
+    },
+    {
+      "file": "SourceHanSansJP-ExtraLight.otf",
+      "weights": null,
+      "name": "SourceHanSansJP-ExtraLight",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSansJP-Light.otf",
+      "weights": null,
+      "name": "SourceHanSansJP-Light",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSansJP-Normal.otf",
+      "weights": null,
+      "name": "SourceHanSansJP-Normal",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSansJP-Regular.otf",
+      "weights": null,
+      "name": "SourceHanSansJP-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSansJP-Medium.otf",
+      "weights": null,
+      "name": "SourceHanSansJP-Medium",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSansJP-Bold.otf",
+      "weights": null,
+      "name": "SourceHanSansJP-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSansJP-Heavy.otf",
+      "weights": null,
+      "name": "SourceHanSansJP-Heavy",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSerifJP-ExtraLight.otf",
+      "weights": null,
+      "name": "SourceHanSerifJP-ExtraLight",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSerifJP-Light.otf",
+      "weights": null,
+      "name": "SourceHanSerifJP-Light",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSerifJP-Regular.otf",
+      "weights": null,
+      "name": "SourceHanSerifJP-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSerifJP-Medium.otf",
+      "weights": null,
+      "name": "SourceHanSerifJP-Medium",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSerifJP-SemiBold.otf",
+      "weights": null,
+      "name": "SourceHanSerifJP-SemiBold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSerifJP-Bold.otf",
+      "weights": null,
+      "name": "SourceHanSerifJP-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "SourceHanSerifJP-Heavy.otf",
+      "weights": null,
+      "name": "SourceHanSerifJP-Heavy",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Koruri-Regular.ttf",
+      "weights": null,
+      "name": "Koruri-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Koruri-Bold.ttf",
+      "weights": null,
+      "name": "Koruri-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Koruri-Semibold.ttf",
+      "weights": null,
+      "name": "Koruri-Semibold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "HackGen-Regular.ttf",
+      "weights": null,
+      "name": "HackGen-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "HackGen-Bold.ttf",
+      "weights": null,
+      "name": "HackGen-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "HackGenConsole-Regular.ttf",
+      "weights": null,
+      "name": "HackGenConsole-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "HackGenConsole-Bold.ttf",
+      "weights": null,
+      "name": "HackGenConsole-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "UDEVGothic-Regular.ttf",
+      "weights": null,
+      "name": "UDEVGothic-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "UDEVGothic-Bold.ttf",
+      "weights": null,
+      "name": "UDEVGothic-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "UDEVGothic35-Regular.ttf",
+      "weights": null,
+      "name": "UDEVGothic35-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "UDEVGothic35-Bold.ttf",
+      "weights": null,
+      "name": "UDEVGothic35-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "PlemolJP-Regular.ttf",
+      "weights": null,
+      "name": "PlemolJP-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "PlemolJP-Bold.ttf",
+      "weights": null,
+      "name": "PlemolJP-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "PlemolJPConsole-Regular.ttf",
+      "weights": null,
+      "name": "PlemolJPConsole-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "PlemolJPConsole-Bold.ttf",
+      "weights": null,
+      "name": "PlemolJPConsole-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Cica-Regular.ttf",
+      "weights": null,
+      "name": "Cica-Regular",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Cica-Bold.ttf",
+      "weights": null,
+      "name": "Cica-Bold",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "Cica-BoldItalic.ttf",
+      "weights": null,
+      "name": "Cica-BoldItalic",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "GenRyuMin2JP-ExtraLight.otf",
+      "weights": null,
+      "name": "GenRyuMin2JP-EL",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "GenRyuMin2JP-Light.otf",
+      "weights": null,
+      "name": "GenRyuMin2JP-L",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "GenRyuMin2JP-Regular.otf",
+      "weights": null,
+      "name": "GenRyuMin2JP-R",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "GenRyuMin2JP-Medium.otf",
+      "weights": null,
+      "name": "GenRyuMin2JP-M",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "GenRyuMin2JP-SemiBold.otf",
+      "weights": null,
+      "name": "GenRyuMin2JP-SB",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "GenRyuMin2JP-Bold.otf",
+      "weights": null,
+      "name": "GenRyuMin2JP-B",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    },
+    {
+      "file": "GenRyuMin2JP-Heavy.otf",
+      "weights": null,
+      "name": "GenRyuMin2JP-H",
+      "source": "release zip",
+      "license": "OFL 1.1"
+    }
+  ],
+  "failed": [
+    [
+      "DarumadropOne-Regular.ttf",
+      "no kana/kanji cmap"
+    ],
+    [
+      "ZenDots-Regular.ttf",
+      "no kana/kanji cmap"
+    ]
+  ],
+  "log": [
+    "MISSING in Moralerspace_v2.0.0.zip: MoralerspaceGothic-Regular.ttf",
+    "MISSING in Moralerspace_v2.0.0.zip: MoralerspaceGothic-Bold.ttf",
+    "MISSING in Moralerspace_v2.0.0.zip: MoralerspaceGothicHW-Regular.ttf",
+    "MISSING in Moralerspace_v2.0.0.zip: MoralerspaceGothicHW-Bold.ttf",
+    "MISSING in Cica_v5.0.3.zip: Cica-Italic.ttf",
+    "zip FAIL: genjyuugothic-20150607.zip",
+    "zip FAIL: genshingothic-20150607.zip",
+    "verify FAIL: ('DarumadropOne-Regular.ttf', 'no kana/kanji cmap')",
+    "verify FAIL: ('ZenDots-Regular.ttf', 'no kana/kanji cmap')"
+  ]
+}

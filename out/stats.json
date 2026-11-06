@@ -1,0 +1,1189 @@
+{
+  "fonts_rendered": 229,
+  "chars": {
+    "あ": {
+      "file": "000_U+3042_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3042",
+      "group": "hiragana"
+    },
+    "い": {
+      "file": "001_U+3044_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3044",
+      "group": "hiragana"
+    },
+    "う": {
+      "file": "002_U+3046_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3046",
+      "group": "hiragana"
+    },
+    "え": {
+      "file": "003_U+3048_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3048",
+      "group": "hiragana"
+    },
+    "お": {
+      "file": "004_U+304A_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+304A",
+      "group": "hiragana"
+    },
+    "か": {
+      "file": "005_U+304B_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+304B",
+      "group": "hiragana"
+    },
+    "き": {
+      "file": "006_U+304D_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+304D",
+      "group": "hiragana"
+    },
+    "く": {
+      "file": "007_U+304F_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+304F",
+      "group": "hiragana"
+    },
+    "け": {
+      "file": "008_U+3051_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3051",
+      "group": "hiragana"
+    },
+    "こ": {
+      "file": "009_U+3053_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3053",
+      "group": "hiragana"
+    },
+    "さ": {
+      "file": "010_U+3055_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3055",
+      "group": "hiragana"
+    },
+    "し": {
+      "file": "011_U+3057_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3057",
+      "group": "hiragana"
+    },
+    "す": {
+      "file": "012_U+3059_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3059",
+      "group": "hiragana"
+    },
+    "せ": {
+      "file": "013_U+305B_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+305B",
+      "group": "hiragana"
+    },
+    "そ": {
+      "file": "014_U+305D_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+305D",
+      "group": "hiragana"
+    },
+    "た": {
+      "file": "015_U+305F_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+305F",
+      "group": "hiragana"
+    },
+    "ち": {
+      "file": "016_U+3061_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3061",
+      "group": "hiragana"
+    },
+    "つ": {
+      "file": "017_U+3064_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3064",
+      "group": "hiragana"
+    },
+    "て": {
+      "file": "018_U+3066_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3066",
+      "group": "hiragana"
+    },
+    "と": {
+      "file": "019_U+3068_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3068",
+      "group": "hiragana"
+    },
+    "な": {
+      "file": "020_U+306A_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+306A",
+      "group": "hiragana"
+    },
+    "に": {
+      "file": "021_U+306B_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+306B",
+      "group": "hiragana"
+    },
+    "ぬ": {
+      "file": "022_U+306C_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+306C",
+      "group": "hiragana"
+    },
+    "ね": {
+      "file": "023_U+306D_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+306D",
+      "group": "hiragana"
+    },
+    "の": {
+      "file": "024_U+306E_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+306E",
+      "group": "hiragana"
+    },
+    "は": {
+      "file": "025_U+306F_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+306F",
+      "group": "hiragana"
+    },
+    "ひ": {
+      "file": "026_U+3072_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3072",
+      "group": "hiragana"
+    },
+    "ふ": {
+      "file": "027_U+3075_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3075",
+      "group": "hiragana"
+    },
+    "へ": {
+      "file": "028_U+3078_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3078",
+      "group": "hiragana"
+    },
+    "ほ": {
+      "file": "029_U+307B_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+307B",
+      "group": "hiragana"
+    },
+    "ま": {
+      "file": "030_U+307E_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+307E",
+      "group": "hiragana"
+    },
+    "み": {
+      "file": "031_U+307F_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+307F",
+      "group": "hiragana"
+    },
+    "む": {
+      "file": "032_U+3080_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3080",
+      "group": "hiragana"
+    },
+    "め": {
+      "file": "033_U+3081_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3081",
+      "group": "hiragana"
+    },
+    "も": {
+      "file": "034_U+3082_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3082",
+      "group": "hiragana"
+    },
+    "や": {
+      "file": "035_U+3084_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3084",
+      "group": "hiragana"
+    },
+    "ゆ": {
+      "file": "036_U+3086_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3086",
+      "group": "hiragana"
+    },
+    "よ": {
+      "file": "037_U+3088_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3088",
+      "group": "hiragana"
+    },
+    "ら": {
+      "file": "038_U+3089_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3089",
+      "group": "hiragana"
+    },
+    "り": {
+      "file": "039_U+308A_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+308A",
+      "group": "hiragana"
+    },
+    "る": {
+      "file": "040_U+308B_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+308B",
+      "group": "hiragana"
+    },
+    "れ": {
+      "file": "041_U+308C_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+308C",
+      "group": "hiragana"
+    },
+    "ろ": {
+      "file": "042_U+308D_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+308D",
+      "group": "hiragana"
+    },
+    "わ": {
+      "file": "043_U+308F_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+308F",
+      "group": "hiragana"
+    },
+    "を": {
+      "file": "044_U+3092_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3092",
+      "group": "hiragana"
+    },
+    "ん": {
+      "file": "045_U+3093_hiragana.png",
+      "contributors": 228,
+      "codepoint": "U+3093",
+      "group": "hiragana"
+    },
+    "ア": {
+      "file": "046_U+30A2_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30A2",
+      "group": "katakana"
+    },
+    "イ": {
+      "file": "047_U+30A4_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30A4",
+      "group": "katakana"
+    },
+    "ウ": {
+      "file": "048_U+30A6_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30A6",
+      "group": "katakana"
+    },
+    "エ": {
+      "file": "049_U+30A8_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30A8",
+      "group": "katakana"
+    },
+    "オ": {
+      "file": "050_U+30AA_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30AA",
+      "group": "katakana"
+    },
+    "カ": {
+      "file": "051_U+30AB_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30AB",
+      "group": "katakana"
+    },
+    "キ": {
+      "file": "052_U+30AD_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30AD",
+      "group": "katakana"
+    },
+    "ク": {
+      "file": "053_U+30AF_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30AF",
+      "group": "katakana"
+    },
+    "ケ": {
+      "file": "054_U+30B1_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30B1",
+      "group": "katakana"
+    },
+    "コ": {
+      "file": "055_U+30B3_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30B3",
+      "group": "katakana"
+    },
+    "サ": {
+      "file": "056_U+30B5_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30B5",
+      "group": "katakana"
+    },
+    "シ": {
+      "file": "057_U+30B7_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30B7",
+      "group": "katakana"
+    },
+    "ス": {
+      "file": "058_U+30B9_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30B9",
+      "group": "katakana"
+    },
+    "セ": {
+      "file": "059_U+30BB_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30BB",
+      "group": "katakana"
+    },
+    "ソ": {
+      "file": "060_U+30BD_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30BD",
+      "group": "katakana"
+    },
+    "タ": {
+      "file": "061_U+30BF_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30BF",
+      "group": "katakana"
+    },
+    "チ": {
+      "file": "062_U+30C1_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30C1",
+      "group": "katakana"
+    },
+    "ツ": {
+      "file": "063_U+30C4_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30C4",
+      "group": "katakana"
+    },
+    "テ": {
+      "file": "064_U+30C6_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30C6",
+      "group": "katakana"
+    },
+    "ト": {
+      "file": "065_U+30C8_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30C8",
+      "group": "katakana"
+    },
+    "ナ": {
+      "file": "066_U+30CA_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30CA",
+      "group": "katakana"
+    },
+    "ニ": {
+      "file": "067_U+30CB_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30CB",
+      "group": "katakana"
+    },
+    "ヌ": {
+      "file": "068_U+30CC_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30CC",
+      "group": "katakana"
+    },
+    "ネ": {
+      "file": "069_U+30CD_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30CD",
+      "group": "katakana"
+    },
+    "ノ": {
+      "file": "070_U+30CE_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30CE",
+      "group": "katakana"
+    },
+    "ハ": {
+      "file": "071_U+30CF_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30CF",
+      "group": "katakana"
+    },
+    "ヒ": {
+      "file": "072_U+30D2_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30D2",
+      "group": "katakana"
+    },
+    "フ": {
+      "file": "073_U+30D5_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30D5",
+      "group": "katakana"
+    },
+    "ヘ": {
+      "file": "074_U+30D8_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30D8",
+      "group": "katakana"
+    },
+    "ホ": {
+      "file": "075_U+30DB_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30DB",
+      "group": "katakana"
+    },
+    "マ": {
+      "file": "076_U+30DE_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30DE",
+      "group": "katakana"
+    },
+    "ミ": {
+      "file": "077_U+30DF_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30DF",
+      "group": "katakana"
+    },
+    "ム": {
+      "file": "078_U+30E0_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30E0",
+      "group": "katakana"
+    },
+    "メ": {
+      "file": "079_U+30E1_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30E1",
+      "group": "katakana"
+    },
+    "モ": {
+      "file": "080_U+30E2_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30E2",
+      "group": "katakana"
+    },
+    "ヤ": {
+      "file": "081_U+30E4_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30E4",
+      "group": "katakana"
+    },
+    "ユ": {
+      "file": "082_U+30E6_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30E6",
+      "group": "katakana"
+    },
+    "ヨ": {
+      "file": "083_U+30E8_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30E8",
+      "group": "katakana"
+    },
+    "ラ": {
+      "file": "084_U+30E9_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30E9",
+      "group": "katakana"
+    },
+    "リ": {
+      "file": "085_U+30EA_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30EA",
+      "group": "katakana"
+    },
+    "ル": {
+      "file": "086_U+30EB_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30EB",
+      "group": "katakana"
+    },
+    "レ": {
+      "file": "087_U+30EC_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30EC",
+      "group": "katakana"
+    },
+    "ロ": {
+      "file": "088_U+30ED_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30ED",
+      "group": "katakana"
+    },
+    "ワ": {
+      "file": "089_U+30EF_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30EF",
+      "group": "katakana"
+    },
+    "ヲ": {
+      "file": "090_U+30F2_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30F2",
+      "group": "katakana"
+    },
+    "ン": {
+      "file": "091_U+30F3_katakana.png",
+      "contributors": 228,
+      "codepoint": "U+30F3",
+      "group": "katakana"
+    },
+    "0": {
+      "file": "092_U+0030_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0030",
+      "group": "digits"
+    },
+    "1": {
+      "file": "093_U+0031_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0031",
+      "group": "digits"
+    },
+    "2": {
+      "file": "094_U+0032_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0032",
+      "group": "digits"
+    },
+    "3": {
+      "file": "095_U+0033_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0033",
+      "group": "digits"
+    },
+    "4": {
+      "file": "096_U+0034_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0034",
+      "group": "digits"
+    },
+    "5": {
+      "file": "097_U+0035_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0035",
+      "group": "digits"
+    },
+    "6": {
+      "file": "098_U+0036_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0036",
+      "group": "digits"
+    },
+    "7": {
+      "file": "099_U+0037_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0037",
+      "group": "digits"
+    },
+    "8": {
+      "file": "100_U+0038_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0038",
+      "group": "digits"
+    },
+    "9": {
+      "file": "101_U+0039_digits.png",
+      "contributors": 229,
+      "codepoint": "U+0039",
+      "group": "digits"
+    },
+    "A": {
+      "file": "102_U+0041_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0041",
+      "group": "latin_upper"
+    },
+    "B": {
+      "file": "103_U+0042_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0042",
+      "group": "latin_upper"
+    },
+    "C": {
+      "file": "104_U+0043_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0043",
+      "group": "latin_upper"
+    },
+    "D": {
+      "file": "105_U+0044_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0044",
+      "group": "latin_upper"
+    },
+    "E": {
+      "file": "106_U+0045_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0045",
+      "group": "latin_upper"
+    },
+    "F": {
+      "file": "107_U+0046_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0046",
+      "group": "latin_upper"
+    },
+    "G": {
+      "file": "108_U+0047_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0047",
+      "group": "latin_upper"
+    },
+    "H": {
+      "file": "109_U+0048_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0048",
+      "group": "latin_upper"
+    },
+    "I": {
+      "file": "110_U+0049_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0049",
+      "group": "latin_upper"
+    },
+    "J": {
+      "file": "111_U+004A_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+004A",
+      "group": "latin_upper"
+    },
+    "K": {
+      "file": "112_U+004B_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+004B",
+      "group": "latin_upper"
+    },
+    "L": {
+      "file": "113_U+004C_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+004C",
+      "group": "latin_upper"
+    },
+    "M": {
+      "file": "114_U+004D_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+004D",
+      "group": "latin_upper"
+    },
+    "N": {
+      "file": "115_U+004E_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+004E",
+      "group": "latin_upper"
+    },
+    "O": {
+      "file": "116_U+004F_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+004F",
+      "group": "latin_upper"
+    },
+    "P": {
+      "file": "117_U+0050_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0050",
+      "group": "latin_upper"
+    },
+    "Q": {
+      "file": "118_U+0051_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0051",
+      "group": "latin_upper"
+    },
+    "R": {
+      "file": "119_U+0052_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0052",
+      "group": "latin_upper"
+    },
+    "S": {
+      "file": "120_U+0053_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0053",
+      "group": "latin_upper"
+    },
+    "T": {
+      "file": "121_U+0054_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0054",
+      "group": "latin_upper"
+    },
+    "U": {
+      "file": "122_U+0055_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0055",
+      "group": "latin_upper"
+    },
+    "V": {
+      "file": "123_U+0056_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0056",
+      "group": "latin_upper"
+    },
+    "W": {
+      "file": "124_U+0057_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0057",
+      "group": "latin_upper"
+    },
+    "X": {
+      "file": "125_U+0058_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0058",
+      "group": "latin_upper"
+    },
+    "Y": {
+      "file": "126_U+0059_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+0059",
+      "group": "latin_upper"
+    },
+    "Z": {
+      "file": "127_U+005A_latin_upper.png",
+      "contributors": 229,
+      "codepoint": "U+005A",
+      "group": "latin_upper"
+    },
+    "a": {
+      "file": "128_U+0061_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0061",
+      "group": "latin_lower"
+    },
+    "b": {
+      "file": "129_U+0062_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0062",
+      "group": "latin_lower"
+    },
+    "c": {
+      "file": "130_U+0063_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0063",
+      "group": "latin_lower"
+    },
+    "d": {
+      "file": "131_U+0064_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0064",
+      "group": "latin_lower"
+    },
+    "e": {
+      "file": "132_U+0065_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0065",
+      "group": "latin_lower"
+    },
+    "f": {
+      "file": "133_U+0066_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0066",
+      "group": "latin_lower"
+    },
+    "g": {
+      "file": "134_U+0067_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0067",
+      "group": "latin_lower"
+    },
+    "h": {
+      "file": "135_U+0068_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0068",
+      "group": "latin_lower"
+    },
+    "i": {
+      "file": "136_U+0069_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0069",
+      "group": "latin_lower"
+    },
+    "j": {
+      "file": "137_U+006A_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+006A",
+      "group": "latin_lower"
+    },
+    "k": {
+      "file": "138_U+006B_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+006B",
+      "group": "latin_lower"
+    },
+    "l": {
+      "file": "139_U+006C_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+006C",
+      "group": "latin_lower"
+    },
+    "m": {
+      "file": "140_U+006D_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+006D",
+      "group": "latin_lower"
+    },
+    "n": {
+      "file": "141_U+006E_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+006E",
+      "group": "latin_lower"
+    },
+    "o": {
+      "file": "142_U+006F_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+006F",
+      "group": "latin_lower"
+    },
+    "p": {
+      "file": "143_U+0070_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0070",
+      "group": "latin_lower"
+    },
+    "q": {
+      "file": "144_U+0071_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0071",
+      "group": "latin_lower"
+    },
+    "r": {
+      "file": "145_U+0072_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0072",
+      "group": "latin_lower"
+    },
+    "s": {
+      "file": "146_U+0073_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0073",
+      "group": "latin_lower"
+    },
+    "t": {
+      "file": "147_U+0074_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0074",
+      "group": "latin_lower"
+    },
+    "u": {
+      "file": "148_U+0075_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0075",
+      "group": "latin_lower"
+    },
+    "v": {
+      "file": "149_U+0076_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0076",
+      "group": "latin_lower"
+    },
+    "w": {
+      "file": "150_U+0077_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0077",
+      "group": "latin_lower"
+    },
+    "x": {
+      "file": "151_U+0078_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0078",
+      "group": "latin_lower"
+    },
+    "y": {
+      "file": "152_U+0079_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+0079",
+      "group": "latin_lower"
+    },
+    "z": {
+      "file": "153_U+007A_latin_lower.png",
+      "contributors": 229,
+      "codepoint": "U+007A",
+      "group": "latin_lower"
+    },
+    "日": {
+      "file": "154_U+65E5_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+65E5",
+      "group": "kanji"
+    },
+    "本": {
+      "file": "155_U+672C_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+672C",
+      "group": "kanji"
+    },
+    "年": {
+      "file": "156_U+5E74_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5E74",
+      "group": "kanji"
+    },
+    "時": {
+      "file": "157_U+6642_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+6642",
+      "group": "kanji"
+    },
+    "分": {
+      "file": "158_U+5206_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5206",
+      "group": "kanji"
+    },
+    "前": {
+      "file": "159_U+524D_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+524D",
+      "group": "kanji"
+    },
+    "後": {
+      "file": "160_U+5F8C_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5F8C",
+      "group": "kanji"
+    },
+    "大": {
+      "file": "161_U+5927_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5927",
+      "group": "kanji"
+    },
+    "小": {
+      "file": "162_U+5C0F_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5C0F",
+      "group": "kanji"
+    },
+    "上": {
+      "file": "163_U+4E0A_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+4E0A",
+      "group": "kanji"
+    },
+    "下": {
+      "file": "164_U+4E0B_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+4E0B",
+      "group": "kanji"
+    },
+    "中": {
+      "file": "165_U+4E2D_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+4E2D",
+      "group": "kanji"
+    },
+    "左": {
+      "file": "166_U+5DE6_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5DE6",
+      "group": "kanji"
+    },
+    "右": {
+      "file": "167_U+53F3_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+53F3",
+      "group": "kanji"
+    },
+    "山": {
+      "file": "168_U+5C71_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5C71",
+      "group": "kanji"
+    },
+    "川": {
+      "file": "169_U+5DDD_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+5DDD",
+      "group": "kanji"
+    },
+    "田": {
+      "file": "170_U+7530_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+7530",
+      "group": "kanji"
+    },
+    "人": {
+      "file": "171_U+4EBA_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+4EBA",
+      "group": "kanji"
+    },
+    "月": {
+      "file": "172_U+6708_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+6708",
+      "group": "kanji"
+    },
+    "火": {
+      "file": "173_U+706B_kanji.png",
+      "contributors": 227,
+      "codepoint": "U+706B",
+      "group": "kanji"
+    }
+  },
+  "missing": {
+    "Darumadrop One": [
+      "日",
+      "本",
+      "年",
+      "時",
+      "分",
+      "前",
+      "後",
+      "大",
+      "小",
+      "上",
+      "下",
+      "中",
+      "左",
+      "右",
+      "山",
+      "川",
+      "田",
+      "人",
+      "月",
+      "火"
+    ],
+    "Zen Dots": [
+      "あ",
+      "い",
+      "う",
+      "え",
+      "お",
+      "か",
+      "き",
+      "く",
+      "け",
+      "こ",
+      "さ",
+      "し",
+      "す",
+      "せ",
+      "そ",
+      "た",
+      "ち",
+      "つ",
+      "て",
+      "と",
+      "な",
+      "に",
+      "ぬ",
+      "ね",
+      "の",
+      "は",
+      "ひ",
+      "ふ",
+      "へ",
+      "ほ",
+      "ま",
+      "み",
+      "む",
+      "め",
+      "も",
+      "や",
+      "ゆ",
+      "よ",
+      "ら",
+      "り",
+      "る",
+      "れ",
+      "ろ",
+      "わ",
+      "を",
+      "ん",
+      "ア",
+      "イ",
+      "ウ",
+      "エ",
+      "オ",
+      "カ",
+      "キ",
+      "ク",
+      "ケ",
+      "コ",
+      "サ",
+      "シ",
+      "ス",
+      "セ",
+      "ソ",
+      "タ",
+      "チ",
+      "ツ",
+      "テ",
+      "ト",
+      "ナ",
+      "ニ",
+      "ヌ",
+      "ネ",
+      "ノ",
+      "ハ",
+      "ヒ",
+      "フ",
+      "ヘ",
+      "ホ",
+      "マ",
+      "ミ",
+      "ム",
+      "メ",
+      "モ",
+      "ヤ",
+      "ユ",
+      "ヨ",
+      "ラ",
+      "リ",
+      "ル",
+      "レ",
+      "ロ",
+      "ワ",
+      "ヲ",
+      "ン",
+      "日",
+      "本",
+      "年",
+      "時",
+      "分",
+      "前",
+      "後",
+      "大",
+      "小",
+      "上",
+      "下",
+      "中",
+      "左",
+      "右",
+      "山",
+      "川",
+      "田",
+      "人",
+      "月",
+      "火"
+    ]
+  },
+  "total_fonts": 229,
+  "elapsed_sec": 23.9
+}

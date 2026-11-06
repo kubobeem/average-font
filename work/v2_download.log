@@ -1,0 +1,73 @@
+google DelaGothicOne-Regular.ttf: ok
+google RampartOne-Regular.ttf: ok
+google ReggaeOne-Regular.ttf: ok
+google RocknRollOne-Regular.ttf: ok
+google PottaOne-Regular.ttf: ok
+google MochiyPopOne-Regular.ttf: ok
+google MochiyPopPOne-Regular.ttf: ok
+google HachiMaruPop-Regular.ttf: ok
+google DarumadropOne-Regular.ttf: ok
+google ZenDots-Regular.ttf: ok
+google YujiSyuku-Regular.ttf: ok
+google YujiMai-Regular.ttf: ok
+google YujiBoku-Regular.ttf: ok
+google NewTegomin-Regular.ttf: ok
+google ShipporiAntique-Regular.ttf: ok
+google ShipporiAntiqueB1-Regular.ttf: ok
+google Yomogi-Regular.ttf: ok
+google Murecho[wght].ttf: ok
+google MPLUS1[wght].ttf: ok
+google BIZUDPGothic-Regular.ttf: ok
+google BIZUDPGothic-Bold.ttf: ok
+google ShipporiMinchoB1-SemiBold.ttf: ok
+google ShipporiMinchoB1-ExtraBold.ttf: ok
+apt IPAexGothic.ttf: ok
+apt IPAexMincho.ttf: ok
+apt TakaoGothic.ttf: ok
+apt TakaoPGothic.ttf: ok
+apt TakaoMincho.ttf: ok
+apt TakaoPMincho.ttf: ok
+apt VLGothic-Regular.ttf: ok
+apt VLPGothic-Regular.ttf: ok
+apt MigMix-1P-Regular.ttf: ok
+apt MigMix-1P-Bold.ttf: ok
+apt MigMix-2P-Regular.ttf: ok
+apt MigMix-2P-Bold.ttf: ok
+apt MigMix-1M-Regular.ttf: ok
+apt MigMix-1M-Bold.ttf: ok
+apt MigMix-2M-Regular.ttf: ok
+apt MigMix-2M-Bold.ttf: ok
+apt Migu-1M-Regular.ttf: ok
+apt Migu-1M-Bold.ttf: ok
+apt Migu-1C-Regular.ttf: ok
+apt Migu-1C-Bold.ttf: ok
+apt Migu-1P-Regular.ttf: ok
+apt Migu-1P-Bold.ttf: ok
+apt Migu-2M-Regular.ttf: ok
+apt Migu-2M-Bold.ttf: ok
+apt UmePlus-Gothic.ttf: ok
+apt UmePlus-P-Gothic.ttf: ok
+zip SourceHanSansJP.zip: ok (26MB)
+  extracted 7/7 from SourceHanSansJP.zip
+zip SourceHanSerifJP.zip: ok (35MB)
+  extracted 7/7 from SourceHanSerifJP.zip
+zip Koruri-20210720.tar.xz: ok (4MB)
+  extracted 3/3 from Koruri-20210720.tar.xz
+zip HackGen_v2.10.0.zip: ok (38MB)
+  extracted 4/4 from HackGen_v2.10.0.zip
+zip UDEVGothic_v2.2.0.zip: ok (58MB)
+  extracted 4/4 from UDEVGothic_v2.2.0.zip
+zip Moralerspace_v2.0.0.zip: ok (97MB)
+  extracted 0/4 from Moralerspace_v2.0.0.zip
+zip PlemolJP_v3.1.0.zip: ok (211MB)
+  extracted 4/4 from PlemolJP_v3.1.0.zip
+zip Cica_v5.0.3.zip: ok (22MB)
+  extracted 3/4 from Cica_v5.0.3.zip
+zip genjyuugothic-20150607.zip: FAIL rc=18 (97MB)
+zip genshingothic-20150607.zip: FAIL rc=18 (55MB)
+zip GenRyuMin2JP-otf.zip: ok (67MB)
+  extracted 7/7 from GenRyuMin2JP-otf.zip
+verified: 86, failed: 2
+  FAILED: ('DarumadropOne-Regular.ttf', 'no kana/kanji cmap')
+  FAILED: ('ZenDots-Regular.ttf', 'no kana/kanji cmap')
+DONE v2 download: 86 fonts verified
