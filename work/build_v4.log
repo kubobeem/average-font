@@ -1,0 +1,22 @@
+template upem: 1000
+zero-contributor chars (dropped): 0 []
+saved /home/hatch/workspace/average-font/AverageFont-Regular-v4-229fonts-10305chars.ttf 4898464 bytes, glyphs: 10307
+empty glyphs (no contours): 0
+faint glyphs (max_ink<210): 64
+  faint: ('灬', 145.4, 809, 8386)
+  faint: ('氵', 147.8, 89, 6054)
+  faint: ('－', 148.1, 1749, 3466)
+  faint: ('―', 151.5, 1347, 4275)
+  faint: ('ニ', 157.1, 929, 11009)
+  faint: ('（', 157.6, 1625, 4725)
+  faint: ('）', 159.3, 1619, 4729)
+  faint: ('冫', 160.6, 397, 5188)
+  faint: ('＝', 161.0, 2365, 6645)
+  faint: ('…', 163.5, 715, 2164)
+  faint: ('〕', 166.8, 531, 5068)
+  faint: ('』', 168.5, 284, 7077)
+  faint: ('〔', 168.6, 532, 5021)
+  faint: ('『', 171.8, 629, 6132)
+  faint: ('刂', 173.1, 2312, 11397)
+dropped empty after trace: []
+EXIT:0
