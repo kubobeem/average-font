@@ -1,0 +1,47 @@
+TTF: /home/hatch/workspace/average-font/AverageFont-Regular-v5-229fonts-18414chars.ttf
+TTF glyphs: 18416 cmap entries: 18415
+saved contact_sheet_v5.png (1152, 36864)
+saved arrows 95 (1152, 192)
+saved ascii 32 (1152, 96)
+saved cyrillic 260 (1152, 528)
+saved digits 10 (1152, 48)
+saved enclosed 895 (1152, 1824)
+saved fullwidth 91 (1152, 192)
+saved greek 120 (1152, 240)
+saved greek_ext 233 (1152, 480)
+saved halfwidth 121 (1152, 288)
+saved hebrew 35 (1152, 96)
+saved hiragana 91 (1152, 192)
+saved ipa 233 (1152, 480)
+saved kana_ext 16 (1152, 48)
+saved kanji_CJK互換漢字 326 (1152, 672)
+saved kanji_CJK拡張A 38 (1152, 96)
+saved kanji_CJK拡張B 51 (1152, 144)
+saved kanji_CJK拡張C 1 (1152, 48)
+saved kanji_CJK拡張D 25 (1152, 96)
+saved kanji_CJK拡張F 4 (1152, 48)
+saved kanji_CJK統合漢字（JIS外） 409 (1152, 864)
+saved kanji_JIS X 0212 3058 (1152, 6144)
+saved kanji_第1水準 2965 (1152, 5952)
+saved kanji_第2水準 3390 (1152, 6816)
+saved kanji_第3水準 1259 (1152, 2544)
+saved kanji_第4水準 2436 (1152, 4896)
+saved katakana 95 (1152, 192)
+saved latin1 92 (1152, 192)
+saved latin_ext 336 (1152, 672)
+saved latin_ext_add 256 (1152, 528)
+saved latin_lower 26 (1152, 96)
+saved latin_upper 26 (1152, 96)
+saved math 188 (1152, 384)
+saved punct 28 (1152, 96)
+saved symbols 1173 (1152, 2352)
+faintest 24: [('灬', 145.4, 166), ('氵', 147.8, 166), ('⼎', 159.5, 144), ('冫', 160.6, 225), ('刂', 173.1, 166), ('⼆', 174.2, 144), ('一', 180.4, 227), ('⼺', 183.4, 144), ('二', 185.1, 227), ('彡', 188.0, 225), ('⼀', 188.7, 144), ('三', 194.7, 227), ('⼘', 197.2, 144), ('𠆢', 199.6, 162), ('丷', 206.6, 84), ('⼂', 209.0, 144), ('丶', 209.9, 226), ('䒑', 210.6, 116), ('⼙', 211.4, 144), ('今', 212.2, 227), ('龴', 212.5, 84), ('礻', 212.6, 166), ('卩', 213.3, 225), ('扌', 213.7, 166)]
+saved faint_before_after_v5.png (488, 4720)
+fewest 24: [('◻', 20, 178.5), ('◿', 20, 204.0), ('◺', 20, 226.1), ('◸', 20, 229.5), ('◹', 20, 229.5), ('₮', 20, 255.0), ('₴', 20, 255.0), ('⊚', 20, 255.0), ('⌄', 20, 255.0), ('◚', 20, 255.0), ('◛', 20, 255.0), ('◰', 20, 255.0), ('◱', 20, 255.0), ('◲', 20, 255.0), ('◳', 20, 255.0), ('◴', 20, 255.0), ('◵', 20, 255.0), ('◷', 20, 255.0), ('◼', 20, 255.0), ('❮', 20, 255.0), ('❯', 20, 255.0), ('❰', 20, 255.0), ('❱', 20, 255.0), ('➘', 20, 255.0)]
+saved fewest_before_after_v5.png (488, 4720)
+top JIS X 0212: 伹俍俿僘兤冾劜勀 [179, 179, 179, 179, 179, 179, 179, 179]
+top Ext B: 𠮷𡨚𤏐𥡴𨳝𨻶𩿗𠂊 [147, 127, 127, 127, 127, 127, 94, 84]
+TOFU CHECK missing chars: []
+saved ttf_test_v5.png
+viewer_v5.html written
+SHEETS_EXIT=0
